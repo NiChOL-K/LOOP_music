@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/b92e5c6a-5210-4a20-94d0-6a9b701cd934/resourceGroups/LOOPMusic_group/providers/Microsoft.Web/sites/LOOPMusic",
+    "appService.deploySubpath": "."
+}
