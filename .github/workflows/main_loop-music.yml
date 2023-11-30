@@ -59,4 +59,4 @@ jobs:
           app-name: 'LOOP-Music'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_43F7C8297BEA483E870B4B63DF35B579 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8A54681CB95443F5BCA2AE28D55FDDE8 }}
