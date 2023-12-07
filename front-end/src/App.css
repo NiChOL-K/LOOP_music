@@ -1,0 +1,67 @@
+* {
+  font-family: 'Prompt', sans-serif;
+}
+
+body {
+  overflow-y: scroll;
+}
+
+header {
+  display: flex;
+  flex-direction: row;
+  background-color: black;
+}
+
+header a {
+  color: #90EE90;
+  padding: 0px 85px;
+  text-decoration: none;
+}
+
+.menu-navbar-mid {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 1000px;
+  position: fix;
+  top: 0px;
+}
+
+.menu-navbar-mid a {
+  display: block;
+  padding: 25px 25px;
+  text-decoration: none;
+  color: #ffffff;
+  text-align: center;
+}
+
+.menu-navbar-mid a:hover {
+  background-color: #90EE90;
+  color: #000000;
+}
+
+.menu-navbar-right {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+  /*icon stay in middle*/
+  padding: 0px;
+  width: 1000px;
+  position: fix;
+  top: 0px;
+}
+
+.menu-navbar-right a {
+  display: block;
+  padding: 25px 25px;
+  text-decoration: none;
+  color: #ffffff;
+  text-align: center;
+}
+
+.menu-navbar-right a:hover {
+  background-color: #90EE90;
+  color: #000000;
+}
